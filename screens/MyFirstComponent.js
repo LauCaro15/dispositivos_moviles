@@ -6,6 +6,7 @@ const MyFirstComponent = () => {
   return (
     <SafeAreaView>
         <Text>My First Component</Text>
+        <Text>(Laura Carolina Candamil Cortés)</Text>
     </SafeAreaView>
   )
 }
